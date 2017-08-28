@@ -2,8 +2,8 @@
 //  NSString+RegexCategory.m
 //  OnTheWay
 //
-//  Created by 周扬扬 on 2017/7/8.
-//  Copyright © 2017年 WeiHuan. All rights reserved.
+//  Created by machunyan on 2017/7/8.
+//  Copyright © 2017年 马春燕. All rights reserved.
 //
 
 #import "NSString+RegexCategory.h"

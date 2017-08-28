@@ -3,7 +3,7 @@
 //  OnTheWay
 //
 //  Created by machunyan on 2017/7/12.
-//  Copyright © 2017年 WeiHuan. All rights reserved.
+//  Copyright © 2017年 马春燕. All rights reserved.
 //
 
 #import "OTWAlbumSelectHelper.h"

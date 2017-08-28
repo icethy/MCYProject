@@ -1,17 +1,17 @@
 platform :'ios','9.0'
-target 'OnTheWay' do
+target 'MCYProject' do
   pod 'MBProgressHUD'
   pod 'AFNetworking'
   pod 'SDWebImage'
   pod 'MJExtension'
   pod 'MJRefresh'
   pod 'IQKeyboardManager'
-  pod 'PPNetworkHelper'
   pod 'YSCategorys'
-  pod 'STPopup'
-  pod 'SDCycleScrollView'
-  pod 'DACircularProgress'
-  pod 'TZImagePickerController'
-  pod 'BaiduMapKit' #百度地图SDK
+  #pod 'STPopup'
+  #pod 'SDCycleScrollView'
+  #pod 'TZImagePickerController'
+  #pod 'PPNetworkHelper'
+  #pod 'DACircularProgress'
+  #pod 'BaiduMapKit' #百度地图SDK
 end
 
